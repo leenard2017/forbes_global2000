@@ -25,4 +25,6 @@ Python Data Analysis in Action: Forbes Global 2000 Series
 * 3 [福布斯系列之数据完整性检查 | Python数据分析项目实战](http://mp.weixin.qq.com/s?__biz=MzI2NjY5NzI0NA==&mid=2247484019&idx=1&sn=b75fa8c5378c90f20ee68f6439ef88b7&chksm=ea8b6d00ddfce41668c74233eb14e273b4310371a3755141773f397ec26ded4ffebb65026b1d&scene=21#wechat_redirect)
 
 
-* 4 [Pandas数据处理实战：福布斯全球上市企业排行榜数据整理](http://mp.weixin.qq.com/s?__biz=MzI2NjY5NzI0NA==&mid=2247483960&idx=1&sn=4f3bc2b8f7dcbe7883c1493440c6daa4&chksm=ea8b6d4bddfce45d2c0d2de3561a7728b3b39b5914c2752ac9d255bbef95c4b995dd45892c97&scene=21#wechat_redirect)  文章对应的数据文件为“data_2016_part.csv”
+* 4 [福布斯系列之补充数据收集 | Python数据分析项目实战](http://mp.weixin.qq.com/s?__biz=MzI2NjY5NzI0NA==&mid=2247484031&idx=1&sn=20374dc68a4d038cf878c6184d3fd1dd&chksm=ea8b6d0cddfce41a8a19fd16abfd1d1c8f102089b3021d337b6d0eb49abe938a4a26943fe102&scene=21#wechat_redirect) 文章对应的文件为“forbes_data_tidy_2007.ipynb” 和 “./data/data_forber_2007.csv”
+
+* 5 [Pandas数据处理实战：福布斯全球上市企业排行榜数据整理](http://mp.weixin.qq.com/s?__biz=MzI2NjY5NzI0NA==&mid=2247483960&idx=1&sn=4f3bc2b8f7dcbe7883c1493440c6daa4&chksm=ea8b6d4bddfce45d2c0d2de3561a7728b3b39b5914c2752ac9d255bbef95c4b995dd45892c97&scene=21#wechat_redirect)  文章对应的数据文件为“./data/data_2016_part.csv”
