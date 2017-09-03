@@ -10,7 +10,8 @@ Python Data Analysis in Action: Forbes Global 2000 Series
 
 本公众号秉承“**让数据更有价值**”的理念，主要分享数据相关的内容，包括数据分析，挖掘，可视化，机器学习，深度学习等。
 
-<img src="http://oqb5ftrdh.bkt.clouddn.com/17-6-14/55662557.jpg" width="150" height="150"/>
+<img src="./photo/foot.jpg" width="400"/>
+
 
 # 福布斯系列文章 | 微信公众号发布
 
@@ -27,4 +28,5 @@ Python Data Analysis in Action: Forbes Global 2000 Series
 | 4 | [福布斯系列之补充数据收集 - Python数据分析项目实战](http://mp.weixin.qq.com/s?__biz=MzI2NjY5NzI0NA==&mid=2247484031&idx=1&sn=20374dc68a4d038cf878c6184d3fd1dd&chksm=ea8b6d0cddfce41a8a19fd16abfd1d1c8f102089b3021d337b6d0eb49abe938a4a26943fe102&scene=21#wechat_redirect) |  |
 | 5 | [福布斯系列之数据清洗（1） - Python数据分析项目实战](http://mp.weixin.qq.com/s?__biz=MzI2NjY5NzI0NA==&mid=2247484067&idx=1&sn=955df45c829b6f9d8092fda5234b5566&chksm=ea8b6dd0ddfce4c66bf1ec45122493f2a719aef4eafdede2ed34ca29d9565534bda7bd4a53ad&scene=21#wechat_redirect) | 文章对应的文件为 “forbes_data_tidy_2007.ipynb” 和 “./data/data_forbes_2007.csv” |
 | 6 | [福布斯系列之数据清洗（2） - Python数据分析项目实战](http://mp.weixin.qq.com/s?__biz=MzI2NjY5NzI0NA==&mid=2247484080&idx=1&sn=6a61e4e57236a2ee96c494473cf87e36&chksm=ea8b6dc3ddfce4d5654421e7a501bf65dc131dcce33c4a7336d9e4928770725e79ef9e764954&scene=21#wechat_redirect) | 文章对应的文件为 “forbes_data_tidy_2007_2010.ipynb” 和 data文件夹中2008至2010的csv数据文件 |
-| 7 | [Pandas数据处理实战：福布斯全球上市企业排行榜数据整理](http://mp.weixin.qq.com/s?__biz=MzI2NjY5NzI0NA==&mid=2247483960&idx=1&sn=4f3bc2b8f7dcbe7883c1493440c6daa4&chksm=ea8b6d4bddfce45d2c0d2de3561a7728b3b39b5914c2752ac9d255bbef95c4b995dd45892c97&scene=21#wechat_redirect) | 文章对应的数据文件为“./data/data_2016_part.csv” |
+| 7 | 福布斯系列之数据清洗（3） - Python数据分析项目实战 | 文章对应的文件为 “forbes_data_tidy_2007_2015.ipynb” 和 data文件夹中2011至2015的csv数据文件 |
+| 8 | [Pandas数据处理实战：福布斯全球上市企业排行榜数据整理](http://mp.weixin.qq.com/s?__biz=MzI2NjY5NzI0NA==&mid=2247483960&idx=1&sn=4f3bc2b8f7dcbe7883c1493440c6daa4&chksm=ea8b6d4bddfce45d2c0d2de3561a7728b3b39b5914c2752ac9d255bbef95c4b995dd45892c97&scene=21#wechat_redirect) | 文章对应的数据文件为“./data/data_2016_part.csv” |
